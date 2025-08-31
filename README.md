@@ -1,5 +1,5 @@
 # McWebserver
-This is the fabric port, the Forge version is available [here](https://github.com/J-onasJones/McWebserver-forge)
+Forked from Jonas_Jones' McWebServer. This fork aims to bring support to as many modloaders and versions as I can make it to. 
 
 <a href="https://github.com/J-onasJones/McWeberver/blob/master/LICENSE"><img src="https://img.shields.io/github/license/J-onasJones/McWebserver?style=flat&color=900c3f" alt="License"></a>
 <a href="https://discord.gg/V2EsuUVmWh"><img src="https://img.shields.io/discord/702180921234817135?color=5865f2&label=Discord&style=flat" alt="Discord"></a>
